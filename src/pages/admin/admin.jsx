@@ -477,7 +477,7 @@ export const Admin = () => {
         }}
       >
         <div style={{ padding: "20px", textAlign: "center", color: "white" }}>
-          <h2 className="shu__brend__logo">SHU BREND</h2>
+          <h2 className="shu__brend__logo">MED STORE</h2>
         </div>
         <Menu
           mode="inline"

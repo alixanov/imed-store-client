@@ -374,7 +374,7 @@ export default function Kassa() {
               textAlign: "center",
             }}
           >
-            SHU BREND DOʻKONI <br />
+            MED STORE DOʻKONI <br />
           </h1>
           <div className="chek_item">
             <b>
