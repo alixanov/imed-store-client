@@ -51,7 +51,7 @@ export const Login = memo(() => {
           />
         </label>
         <button type="submit" className="login-button">
-          Sign In
+    Kirish
         </button>
       </form>
     </div>
